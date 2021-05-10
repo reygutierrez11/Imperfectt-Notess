@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ImperfectNotes</string>
+    <string name="paragraph">Welcome to the app that will help you fight perfectionsim!
+        \n
+        \n
+        This app is designed to be simple and effective. Get started by clicking the dots on the upper
+     right corner and selecting Add Note/Goal. From here you have two options, you can either type in
+    your note and or goal using your own format, or you can back out back into the main menu and see that
+    a preformatted note has been added!
+        \n
+        \nThis note contains 4 different items. The first is the name of the goal you desire. Then we have the
+     ceiling version of that goal, or rather the best case scenario for accomplishing that goal. Then
+    we have a floor goal, which is the lowest barrier you are willing to accept to consider the goal
+    accomplished. It helps to think of what you might be able to accomplish in regards to this goal
+    during a really difficult and sluggish day. Finally we have a system of 7 boxes which can be used
+    to track your progress for the week.
+        \n
+        \n
+    Once can simply place an x in the boxes such as follows: [x ] [x] [x ] [x] [ ] [] [ ]
+        \n
+        \n
+    Remember that regardless if you hit a ceiling or floor objective, you check a box. It is all about consistency.
+        \n
+        \n
+    Example of goal
+        \n
+        \n
+    Goal: Do some more reading!
+        \n
+        \n
+    Ceiling Objective: Read 20 pages in the morning and at night
+        \n
+        \n
+    Floor Objective: Read 10 pages at least
+        \n
+        \n
+    [x ]  [x]  [x ]  [x]  [x ]  []  [ ]
+        \n
+        \n
+    Enjoy, and happy habit building!
+
+    </string>
+</resources>
